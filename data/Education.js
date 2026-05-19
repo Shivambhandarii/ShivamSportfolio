@@ -2,7 +2,7 @@ export const Education = [
     {
         institution: "Indian Institute of Technology, Roorkee",
         course: "B.Tech, IIT Roorkee",
-        time: "Nov 2022 ‑ May 2026",
+        time: "Nov 2022 ‑ May 2027",
         location: "Roorkee, India",
         grade: "7.56 CGPA",
     },
