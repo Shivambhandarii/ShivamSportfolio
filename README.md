@@ -113,11 +113,4 @@ npm start
 
 This project is open-source and available under the MIT License.
 
----
 
-Now paste this into your `README.md` file in Cursor, save, and push:
-```
-git add .
-git commit -m "updated README"
-git push origin main
-```
