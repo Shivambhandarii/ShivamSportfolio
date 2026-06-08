@@ -1,9 +1,8 @@
-# Bhuvan Shivhare – Portfolio Website
+# Shivam Bhandari – Portfolio Website
 
 Welcome to my personal portfolio website, built to showcase my **skills, projects, experience, and contact information** in a modern, interactive, and responsive way.
 
-💻 **Live Demo:** [https://your-portfolio-url.com](https://your-portfolio-url.com)
-
+💻 **Live Demo:** shivambhandarii.vercel.app
 ---
 
 ## Overview
@@ -47,10 +46,10 @@ The portfolio is fully **responsive, SEO-friendly, and performance optimized**.
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/BhuvanSA/BhuvanS.portfolio.git
+git clone https://github.com/Shivambhandarii/ShivamSportfolio.git
 
 Navigate to the project folder
-cd BhuvanS.portfolio
+cd cd ShivamSportfolio
 
 
 Install dependencies
@@ -100,10 +99,9 @@ Open a Pull Request
 
 📬 Contact Me
 
-Email: bhuvanshivhare177@gmail.com
-LinkedIn: linkedin.com/in/bhuvanshivhare
-GitHub: github.com/Bhuvan-Shivhare
-Twitter/X: x.com/bhuvan
+Email: shivambhandari@600gmail.com
+LinkedIn: www.linkedin.com/in/shivambhandari-
+
 
 
 ## License
