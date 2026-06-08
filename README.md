@@ -3,8 +3,7 @@
 
 Welcome to my personal portfolio website, built to showcase my **skills, projects, experience, and contact information** in a modern, interactive, and responsive way.
 
-💻 **Live Demo:** [shivambhandarii.vercel.app](https://shivambhandarii.vercel.app)
-
+💻 **Live Demo:** https://shivambhandari.vercel.app/
 ---
 
 ## Overview
