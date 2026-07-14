@@ -1,6 +1,6 @@
 export const SkillsTools = {
     skills: [
-        "Product Strategy",
+        "Product Analyst",
         "User Research",
         "Product Roadmap",
         "Data Analytics",

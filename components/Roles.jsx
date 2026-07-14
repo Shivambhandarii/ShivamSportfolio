@@ -26,7 +26,7 @@ const Roles = () => {
     >
       <CarouselContent>
         <CarouselItem>Go-To-Market & Growth</CarouselItem>
-        <CarouselItem>Product Strategy</CarouselItem>
+        <CarouselItem>Product Analyst</CarouselItem>
         <CarouselItem>Product Manager</CarouselItem>
         <CarouselItem>Product-Led Growth</CarouselItem>
       </CarouselContent>
